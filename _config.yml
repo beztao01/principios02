@@ -1,0 +1,14 @@
+title: Postproducción
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
+
+url: https://just-the-docs.github.io
+
+# Configuración del esquema de color
+color_scheme: dark
+
+# Agregando el favicon
+favicon_ico: "/assets/images/post.ico"
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
