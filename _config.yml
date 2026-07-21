@@ -10,5 +10,10 @@ color_scheme: dark
 # Agregando el favicon
 favicon_ico: "/assets/images/post.ico"
 
+# Set a path/url to a logo that will be displayed instead of the title logo
+logo: "/assets/images/uvm.png"
+
+title_only_logo: false
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
