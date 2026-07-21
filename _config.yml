@@ -15,5 +15,11 @@ logo: "/assets/images/uvm.png"
 
 title_only_logo: false
 
+plugins:
+  - jekyll-feed
+
+title: Principios y prácticas del diseño en movimiento II
+description: Espacio de la materia de ingeniería en animación.
+url: "https://beztao01.github.io/principios02/" # O tu dominio local http://127.0.0.1:4000
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template

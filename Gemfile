@@ -9,3 +9,5 @@ gem "just-the-docs", "0.12.0" # pinned to the current release
 gem "webrick", "~> 1.9"
 
 gem "logger", "~> 1.7"
+
+gem 'jekyll-feed'
