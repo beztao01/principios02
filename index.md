@@ -3,7 +3,7 @@ title: Bienvenida
 layout: home
 ---
 
-Bienvenidos a nuestra materia de Postproducción Digital que se imparte en la ingeniería en animación e interactividad.
+Bienvenidos a nuestra materia de Principios y prácticas del diseño en movimiento II que se imparte en la ingeniería en animación e interactividad.
 
 En esta primera sesión veremos una serie de puntos importante que te mencionará su facilitador.
 
