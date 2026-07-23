@@ -10,17 +10,16 @@ A nuestra materia de Principios y prácticas del diseño en movimiento II que se
 
 En esta primera sesión veremos una serie de puntos importante que te mencionará su facilitador.
 
-- Calendario.
-- El Syllabus
-- El reglamento general de la asignatura
-- El reglamento de laboratorios
-- Documento de información general que esta en el Blackboard
-- Acceso a Blackboard
-- Acreditación de la materia
-- Biblografia y referencias
-- Software necesario
-- Firma de Syllabus
-
+- [Calendario.](./assets/images/calendario.jpg)
+- El Syllabus.
+- El reglamento general de la asignatura.
+- El reglamento de laboratorios.
+- Documento de información general que esta en el Blackboard.
+- Acceso a Blackboard.
+- Acreditación de la materia.
+- Biblografía y referencias.
+- Software necesario.
+- Firma de Syllabus.
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
