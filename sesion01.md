@@ -19,4 +19,4 @@ nav_order: 2
 
 ## Blackboard
 
-Todas las actividades se entregan a las 3:00 am
+Todas las actividades se entregan a las 3:00 am los días lunes.
