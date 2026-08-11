@@ -10,7 +10,7 @@ A nuestra materia de Principios y prácticas del diseño en movimiento II que se
 
 En esta primera sesión veremos una serie de puntos importante que te mencionará su facilitador.
 
-- [Calendario.](./assets/images/calendario.jpg)
+- [Calendario.](https://beztao01.github.io/academia/academia/horario2026-02.jpeg)
 - El Syllabus.
 - El reglamento general de la asignatura.
 - El reglamento de laboratorios.
