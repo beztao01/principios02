@@ -15,7 +15,7 @@ Andrea Gerstmann. (23 de marzo de 2018). Animation Stuff: Background Design
 Tips and Tricks [archivo de video](https://youtu.be/RDvGas5KkI0?t=46)
 
 
-Alan Warburton. (10 de octubre de 2017). Goodbye Uncanny Valley [archivo de video](https://vimeo.com/237568588) 
+Alan Warburton. (10 de octubre de 2017). Goodbye Uncanny Valley (Enlace no sirva) [archivo de video](https://vimeo.com/237568588) 
 
 BaM Animation. (5 de marzo de 2020). GOOD vs BAD Character Design: Tips and
 Tricks! [archivo de video](https://www.youtube.com/watch?v=8wm9ti-gzLM)
