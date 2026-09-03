@@ -7,4 +7,4 @@ nav_order: 8
 # Sesión 07
 Primer parcial
 ## Blackboard
-Todas las actividades se entregan a las 3:00 am
+Todas las actividades se entregan los dias lunes a las 3:00 am
