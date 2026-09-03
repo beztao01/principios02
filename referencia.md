@@ -9,26 +9,25 @@ nav_order: 21
 ## Básicas
 
 Adobe Creative Cloud. (17 de julio de 2017). How to Make Your Animations Walk in
-Adobe Character Animator | Adobe Creative Cloud [archivo de video].(Recuperado de https://www.youtube.com/watch?v=KMPr-cLx1zs)
+Adobe Character Animator | Adobe Creative Cloud [archivo de video](https://www.youtube.com/watch?v=KMPr-cLx1zs)
 
 Andrea Gerstmann. (23 de marzo de 2018). Animation Stuff: Background Design
-Tips and Tricks [archivo de video]. Recuperado de
-https://youtu.be/RDvGas5KkI0?t=46
+Tips and Tricks [archivo de video](https://youtu.be/RDvGas5KkI0?t=46)
 
-Alan Warburton. (10 de octubre de 2017). Goodbye Uncanny Valley [archivo de
-video]. Recuperado de https://vimeo.com/237568588
+
+Alan Warburton. (10 de octubre de 2017). Goodbye Uncanny Valley [archivo de video](https://vimeo.com/237568588) 
 
 BaM Animation. (5 de marzo de 2020). GOOD vs BAD Character Design: Tips and
-Tricks! [archivo de video]. Recuperado de
-https://www.youtube.com/watch?v=8wm9ti-gzLM
+Tricks! [archivo de video](https://www.youtube.com/watch?v=8wm9ti-gzLM)
+
 
 Canal Once. (3 de mayo de 2016). Factor Ciencia - Captura de movimiento/UVM
-(02/05/2016) [archivo de video]. Recuperado de
-https://youtu.be/8QydLzAgyOM?t=152
+(02/05/2016) [archivo de video](https://youtu.be/8QydLzAgyOM?t=152)
+
 
 CNBC. (16 de marzo de 2016). Hot Robot At SXSW Says She Wants To Destroy
-Humans | The Pulse [archivo de video]. Recuperado de
-https://www.youtube.com/watch?v=W0_DPi0PmF0
+Humans | The Pulse [archivo de video].  [Recuperado de](https://www.youtube.com/watch?v=W0_DPi0PmF0)
+
 
 Conditt, J. (25 de mayo de 2018). 100 years of motion-capture technology.
 Endgadget [sitio web]. Recuperado de https://www.engadget.com/2018-05-
