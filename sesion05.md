@@ -13,4 +13,4 @@ nav_order: 6
 
 - Actividad en clase se entrega hoy
 ## Blackboard
-Todas las actividades se entregan a las 3:00 am
+Todas las actividades se entregan los lunes a las 3:00 am
