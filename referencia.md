@@ -97,6 +97,5 @@ com
 
 ## Adobe Character Animator video oficiales
 
-- 
 - [What is Adobe Character Animator?](https://youtu.be/7C43tGq-30A?si=oq1fjkOxAT-FctOH)
-- [https://youtu.be/G9DkEIYJ2lo?si=5ApRQeE4upvKnp7W](Intro To Adobe Character Animator)
+- [Intro To Adobe Character Animator](https://youtu.be/G9DkEIYJ2lo?si=5ApRQeE4upvKnp7W) 
