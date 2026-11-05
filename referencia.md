@@ -95,7 +95,8 @@ Effects CC H264 MP4 [archivo de video]. Recuperado de
 https://www.youtube.com/watch?v=_hDf6K7oVx8&ab_channel=WebbyFan.
 com
 
-## Adobe Character Animator video oficiales
+## Adobe Character Animator videos oficiales
 
 - [What is Adobe Character Animator?](https://youtu.be/7C43tGq-30A?si=oq1fjkOxAT-FctOH)
-- [Intro To Adobe Character Animator](https://youtu.be/G9DkEIYJ2lo?si=5ApRQeE4upvKnp7W) 
+- [Intro To Adobe Character Animator](https://youtu.be/G9DkEIYJ2lo?si=5ApRQeE4upvKnp7W)
+- [Intro to Rigging (Adobe Character Animator)](https://youtu.be/hK-DjtiPzRs?si=29NsOullxYPhOkUU) 
