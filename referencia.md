@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Referencias
-nav_order: 21
+nav_order: 22
 ---
 
 # Referencias
@@ -94,3 +94,7 @@ WebbyFan.com. (29 de diciembre de 2019). How to Render Export Video in After
 Effects CC H264 MP4 [archivo de video]. Recuperado de
 https://www.youtube.com/watch?v=_hDf6K7oVx8&ab_channel=WebbyFan.
 com
+
+## Adobe Character animator
+
+- [https://youtu.be/7C43tGq-30A?si=oq1fjkOxAT-FctOH](What is Adobe Character Animator?)
