@@ -5,6 +5,6 @@ nav_order: 14
 ---
 
 # Sesión 13
-Desarrollar contenido
+Examen 2 do Parcial
 ## Blackboard
 Todas las actividades se entregan los dias lunes a las 3:00 am
