@@ -100,4 +100,5 @@ com
 - [What is Adobe Character Animator?](https://youtu.be/7C43tGq-30A?si=oq1fjkOxAT-FctOH)
 - [Intro To Adobe Character Animator](https://youtu.be/G9DkEIYJ2lo?si=5ApRQeE4upvKnp7W)
 - [Intro to Rigging (Adobe Character Animator)](https://youtu.be/hK-DjtiPzRs?si=29NsOullxYPhOkUU)
-- [Eñ Playlist](https://www.youtube.com/watch?v=0Va3_e-4bKE&list=PLq4LynfF_r14w2SwicfetcReq8Y0f_lg_&index=4)
+- [Creating An Animated Livestream (Adobe Character Animator Tutorial)](https://youtu.be/0Va3_e-4bKE?si=_mADUXlaeLq6OqMq) Se agrego el 12-11-26
+- [Eñ Playlist](https://www.youtube.com/watch?v=0Va3_e-4bKE&list=PLq4LynfF_r14w2SwicfetcReq8Y0f_lg_&index=4) Se agrego el 12-11-26
